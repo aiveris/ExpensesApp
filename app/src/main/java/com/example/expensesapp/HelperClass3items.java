@@ -1,5 +1,8 @@
 package com.example.expensesapp;
 
+import android.support.annotation.Keep;
+
+@Keep
 public class HelperClass3items {
     String mainItem, nextItem, xtraItem;
 
